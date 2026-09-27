@@ -77,7 +77,7 @@ The app (`app.py`) provides three interactive tabs:
 ![Dataset and Performance tab](screenshot/dataset-performance.png)
 
 **Visualizations**
-![Visualizations tab](screenshots/visualizations.png)
+![Visualizations tab](screenshot/visualizations.png)
 
 ## 📁 Repository Structure
 
