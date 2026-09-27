@@ -68,6 +68,17 @@ The app (`app.py`) provides three interactive tabs:
 - **📊 Dataset & Performance** — Dataset overview and model evaluation metrics
 - **📈 Visualizations** — Study Time vs. Exam Score scatter plot with best-fit line, and Actual vs. Predicted score comparison
 
+## 📸 Screenshots
+
+**Interactive Prediction**
+![Interactive Prediction tab](screenshots/interactive-prediction.png)
+
+**Dataset & Performance**
+![Dataset and Performance tab](screenshots/dataset-performance.png)
+
+**Visualizations**
+![Visualizations tab](screenshots/visualizations.png)
+
 ## 📁 Repository Structure
 
 ```
@@ -78,6 +89,10 @@ The app (`app.py`) provides three interactive tabs:
 │   ├── student_performance_dataset.csv             # Dataset
 │   ├── student_score_model.pkl                     # Trained Linear Regression model
 │   └── student_performance_multiple_regression.pkl # Additional trained model (multi-feature)
+├── screenshots/
+│   ├── interactive-prediction.png
+│   ├── dataset-performance.png
+│   └── visualizations.png
 ├── Presentation.pptx                               # Project presentation slides
 └── README.md
 ```
