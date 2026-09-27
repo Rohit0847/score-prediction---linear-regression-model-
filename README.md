@@ -71,7 +71,7 @@ The app (`app.py`) provides three interactive tabs:
 ## 📸 Screenshots
 
 **Interactive Prediction**
-![Interactive Prediction tab](screenshots/interactive-prediction.png)
+![Interactive Prediction tab](screenshot/interactive-prediction.png)
 
 **Dataset & Performance**
 ![Dataset and Performance tab](screenshot/dataset-performance.png)
